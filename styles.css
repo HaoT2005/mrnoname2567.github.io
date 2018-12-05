@@ -291,9 +291,39 @@ transform: scale(2);
   height: 100px;
   padding: 5px;
 }
-.box-img:hover{
+.name{
+  padding-left: 50px;
+}
+a {
+    text-decoration: none !important;
+}
+.name a:hover{
   transform: scale(1.1);
   cursor: pointer;
+  display: inline-block;
+}
+.name h1:hover{
+  color: white;
+}
+.hao{
+  display: inline;
+  float: left;
+  padding: 3px;
+}
+.chelsea{
+  display: inline;
+  float: left;
+  padding: 3px;
+}
+.rico{
+  display: inline;
+  float: left;
+  padding: 3px;
+}
+.sani{
+  display: inline;
+  float: left;
+  padding: 3px;
 }
 .box h1{
   font-size: 20px;
